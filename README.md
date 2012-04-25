@@ -19,7 +19,7 @@ A javascript implementation of the WHOIS protocol for node.js
 ### Basic Example
 
 ``` js 
-  var whois = require('whoisclient');
+	var whois = require('whoisclient');
 
 	whois.query('google.com', function(data) {
 		console.log(data);
@@ -46,4 +46,3 @@ A javascript implementation of the WHOIS protocol for node.js
 1. Implement automatic thick Lookups
 
 #### Author: [Carlos Paulino](http://github.com/carlospaulino)
-

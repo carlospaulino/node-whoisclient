@@ -1,10 +1,6 @@
 var	net = require('net'),
 	dns = require('dns');
 
-function doQuery(server, host, command) {
-
-}
-	
 exports.query = function(domain, options, callback) {
 	if(!domain) {
 		throw new Error("Domain name is mandatory eg: google.com");

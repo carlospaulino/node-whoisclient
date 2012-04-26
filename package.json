@@ -2,10 +2,10 @@
 	"name": "whoisclient",
 	"description": "A javascript implementation of the WHOIS protocol for node.js",  
 	"author": "Carlos Paulino <cpaulino@gmail.com>",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"repository": {
 		"type": "git",
-		"url": "https://carlospaulino@github.com/carlospaulino/node-whoisclient.git"
+		"url": "git://github.com/carlospaulino/node-whoisclient.git"
 	},
 	"main": "index"
 }
